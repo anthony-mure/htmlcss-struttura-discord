@@ -3,3 +3,19 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+
+
+.container {
+  background-color: aqua;
+  height: 80px
+}
+
+
+.cols {
+  background-color: yellow;
+  justify-content: space-around;
+  height: 40px;
+  display: flex;
+
+}
