@@ -26,13 +26,24 @@ header {
   height: 400px;
 }
 
-.sezione-2 {
+.sezione-2,
+.sezione-4 {
   max-width: 1200px;
   margin: 0 auto;
   background-color: white;
   height: 400px;
   display: flex;
   justify-content: center;
+}
+
+.sezione-3 {
+  background-color: rgb(158, 151, 151);
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+  height: 400px;
+  justify-content: center;
+
 }
 
 .box-lightblue {
